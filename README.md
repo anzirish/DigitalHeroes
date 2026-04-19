@@ -2,6 +2,13 @@
 
 A subscription-driven web platform with tracking, monthly prize draws, and charity fundraising.
 
+## Live URLs
+
+| | URL |
+|---|---|
+| Frontend | https://digital-heroes-4.vercel.app |
+| Backend API | https://digital-heroes3.vercel.app |
+
 ## Tech Stack
 
 | Layer | Tech |
